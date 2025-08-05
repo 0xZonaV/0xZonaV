@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xz0nav&label=Profile%20views&color=0e75b6&style=flat" alt="0xz0nav" /> </p>
 
-- Currently working on [Airdrop Hunter](https://airdrop-hunter.site/)
-
 - My Site [https://zonav.tech/](https://zonav.tech/)
 
 - How to reach me **zonav@zonav.tech**
