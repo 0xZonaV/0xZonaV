@@ -8,6 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://t.me/zonav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="zonav" height="30" width="40" /></a>
 <a href="https://twitter.com/0xzonav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xzonav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aleksandrtitov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksandrtitov" height="30" width="40" /></a>
 </p>
